@@ -7,7 +7,7 @@
 </p>
   
   ### Bem vindo ao meu perfil <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> </br> Me chamo Wallace, Estudante de FrontEnd :pencil2:</p>
-  <a href="https://github.com/juniorvas">
+  <a href="https://github.com/juniorvas"></a>
    <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
