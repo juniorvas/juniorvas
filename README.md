@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Estudante%20de%20web%20developer;Apaixonado%20por%20Programação;A procura%20de%20oportunidades;Sempre%20aprendendo%20coisas%20novas&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
   
-  ### Bem vindo ao meu perfil <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> </br> Me chamo Wallace, Estudante de FrontEnd :pencil2:</p>
+  ### Bem vindo ao meu perfil <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> </br> Me chamo Wallace, Estudante de Software Engineer. :pencil2:</p>
   <a href="https://github.com/juniorvas"></a>
    <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
