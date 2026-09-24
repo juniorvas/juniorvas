@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Junior 👋</h1>
 <p align="center">
   <b>QA Analyst → Data Engineer</b><br/>
-  Building data pipelines with Python, SQL and PostgreSQL · Santos, Brazil 🇧🇷 · Open to remote or hybrid roles
+  Building data pipelines with Python, SQL and PostgreSQL · São Paulo, Brazil · Open to remote or hybrid roles
 </p>
 
 <p align="center">
@@ -49,4 +49,4 @@
 
 🔗 [Verify all credentials on Credly](https://www.credly.com/users/jose-wallace-grenho-vasconcellos-junior)
 
-<p align="center"><i>🇧🇷 Também falo português, fique à vontade pra me chamar.</i></p>
+<p align="center"><i>Também falo português, fique à vontade pra me chamar.</i></p>
